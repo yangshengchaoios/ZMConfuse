@@ -8,3 +8,4 @@ QQGroup:175070221
 
 混淆效果图：
 ![image](https://github.com/kongcup/ZMConfuse/raw/master/confuse.png)
+http://blog.csdn.net/zm53373581/article/details/49120895
